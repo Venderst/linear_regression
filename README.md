@@ -18,12 +18,12 @@ To get started, write the following commands
 
 > Update and install necessary packages
 ```
-~$	python -m pip install -Ur requirements.txt
+~$ python -m pip install -Ur requirements.txt
 ```
 
 > Run notebook
 ```
-~$	 jupyter notebook linear_regression.ipynb
+~$ jupyter notebook linear_regression.ipynb
 ```
 
 # License
