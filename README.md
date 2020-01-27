@@ -16,6 +16,12 @@ Example of linear regression implementation
 
 To get started, write the following commands
 
+> Clone repository
+```
+~$ git clone https://github.com/Venderst/linear_regression.git
+~$ cd linear_regression/
+```
+
 > Update and install necessary packages
 ```
 ~$ python -m pip install -Ur requirements.txt
