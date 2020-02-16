@@ -1,3 +1,6 @@
 jupyterlab
 numpy 
 matplotlib
+imageio
+tqdm
+ipywidgets
