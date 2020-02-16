@@ -7,10 +7,15 @@ Example of linear regression implementation
 # Prerequisites
 
 * jupyterlab
-
 * numpy
 
 * matplotlib
+
+* imageio
+
+* tqdm
+
+* ipywidgets
 
 # Usage
 
